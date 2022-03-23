@@ -1,11 +1,5 @@
 <template>
     <div>aaaadasdsadasdsadsadds</div>
-
-
-
-
-
-    
 </template>
 
 <style lang="sass">
