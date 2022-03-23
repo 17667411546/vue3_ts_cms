@@ -1,5 +1,5 @@
 <template>
-    <div>aaaadasdsadasdsadsadds</div>
+    <div>就这就这</div>
 </template>
 
 <style lang="sass">
@@ -9,7 +9,6 @@
     -moz-osx-font-smoothing: grayscale
     text-align: center
     color: #2c3e50
-
 #nav
     padding: 30px
 
