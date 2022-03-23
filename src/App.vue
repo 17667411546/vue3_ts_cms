@@ -1,5 +1,5 @@
 <template>
-    <div></div>
+    <div>aaaa</div>
 </template>
 
 <style lang="sass">
